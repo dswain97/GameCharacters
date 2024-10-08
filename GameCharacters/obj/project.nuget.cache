@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DOz2iSB9ba7AL7Qn7PugAh93fRhOZ6Et9aXrMohqB1YnULp01Fr4CWLHkGfsBJfTC1oPM+znIsO2eiYN7sIj+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dswain4\\GameCharacters\\GameCharacters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dswain4\\.nuget\\packages\\nlog\\5.3.3\\nlog.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

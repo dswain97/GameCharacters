@@ -1,0 +1,17 @@
+C:\Users\dswain4\GameCharacters\bin\Debug\net8.0\GameCharacters.exe
+C:\Users\dswain4\GameCharacters\bin\Debug\net8.0\GameCharacters.deps.json
+C:\Users\dswain4\GameCharacters\bin\Debug\net8.0\GameCharacters.runtimeconfig.json
+C:\Users\dswain4\GameCharacters\bin\Debug\net8.0\GameCharacters.dll
+C:\Users\dswain4\GameCharacters\bin\Debug\net8.0\GameCharacters.pdb
+C:\Users\dswain4\GameCharacters\bin\Debug\net8.0\NLog.dll
+C:\Users\dswain4\GameCharacters\obj\Debug\net8.0\GameCharacters.csproj.AssemblyReference.cache
+C:\Users\dswain4\GameCharacters\obj\Debug\net8.0\GameCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dswain4\GameCharacters\obj\Debug\net8.0\GameCharacters.AssemblyInfoInputs.cache
+C:\Users\dswain4\GameCharacters\obj\Debug\net8.0\GameCharacters.AssemblyInfo.cs
+C:\Users\dswain4\GameCharacters\obj\Debug\net8.0\GameCharacters.csproj.CoreCompileInputs.cache
+C:\Users\dswain4\GameCharacters\obj\Debug\net8.0\GameCharacters.csproj.CopyComplete
+C:\Users\dswain4\GameCharacters\obj\Debug\net8.0\GameCharacters.dll
+C:\Users\dswain4\GameCharacters\obj\Debug\net8.0\refint\GameCharacters.dll
+C:\Users\dswain4\GameCharacters\obj\Debug\net8.0\GameCharacters.pdb
+C:\Users\dswain4\GameCharacters\obj\Debug\net8.0\GameCharacters.genruntimeconfig.cache
+C:\Users\dswain4\GameCharacters\obj\Debug\net8.0\ref\GameCharacters.dll
